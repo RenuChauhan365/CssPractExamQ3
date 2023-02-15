@@ -113,3 +113,26 @@ body {
 }
 
 
+#boximg{
+    float: right;
+    background-color: yellow;
+    height: 105px;
+    width: 105px;
+    display: inline;
+    margin-top: 10px;
+    margin-left: 190px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.bot{
+    display: flex;
+}
+
+
+.boxright{
+    border: 2px solid green;
+    width: 50vw;
+    height: 40vh;
+}
