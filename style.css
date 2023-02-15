@@ -1,0 +1,115 @@
+body {
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: white;
+}
+
+.container{
+    background-color: rgb(246, 249, 251);
+    height: 100vh;
+    
+
+   
+}
+
+
+.left{
+    background-color: rgb(216, 227, 235);
+    height: 40vh;
+    padding: 40px;
+    margin-top: 90px;
+}
+
+.h2  p {
+    margin-top: 90px;
+    color: rgb(48, 44, 44);
+    margin-left: 60px;
+    font-size: 40px;
+    font-weight: bold;
+   
+
+}
+
+
+
+.para p{
+    color: gray;
+    margin-left: 60px;
+    padding: 2px;
+
+
+}
+
+.up .left h2{
+    margin-top: 90px;
+ 
+
+}
+
+.threebtn{
+    display: flex;
+}
+
+
+.fir p{
+    border: 1px solid black;
+    padding: 10px;
+    color: gray;
+    width: 100px;
+    height: 20px;
+    text-align:center ;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 60px;
+}
+
+
+.sec p{
+    border: 1px solid black;
+    padding: 10px;
+    color: gray;
+    width: 160px;
+    height: 20px;
+    text-align:center ;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 40px;
+}
+
+
+
+.third p{
+    border: 1px solid black;
+    padding: 10px;
+    
+    width: 300px;
+    height: 20px;
+    text-align:center ;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 40px;
+   
+    background-color: rgb(40, 86, 239);
+    color: white;
+    font-size: 20px;
+}
+
+
+
+.right{
+    float: right;
+    background-color: yellow;
+    height: 105px;
+    width: 105px;
+    display: inline;
+    margin-top: 10px;
+    margin-left: 190px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+
